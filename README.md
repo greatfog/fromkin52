@@ -3,7 +3,7 @@
 <param ve-config 
        title="Mapping Racism and Resistance: A digital exhibit to accompany the 52nd Annual Morris Fromkin Memorial Lecture"
        author="UWM Libraries"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/5/54/Apl-demographics-segregation-milwaukee-redlining-holc-map-crop.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/5/54/Apl-demographics-segregation-milwaukee-redlining-holc-map-crop.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
