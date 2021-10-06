@@ -3,7 +3,7 @@
 <param ve-config 
        title="Mapping Racism and Resistance: A digital exhibit to accompany the 52nd Annual Morris Fromkin Memorial Lecture"
        author="UWM Libraries"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://collections.lib.uwm.edu//digital/iiif-info/mkenh/344/manifest.json" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
