@@ -3,7 +3,7 @@
 <param ve-config 
        title="Mapping Racism and Resistance: A digital exhibit to accompany the 52nd Annual Morris Fromkin Memorial Lecture"
        author="UWM Libraries"
-       banner="https://collections.lib.uwm.edu//digital/iiif-info/mkenh/344/manifest.json" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://collections.lib.uwm.edu//digital/iiif-info/mkenh/344/manifest.json" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
