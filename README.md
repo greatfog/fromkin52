@@ -29,7 +29,7 @@ Property deeds and real estate covenants govern restrictions on the use of prope
 
 ## Redlining
 
-This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify risk investment. These grades effectively outlined the racial contours of the city and systematially embedded economic disadvantages by making it difficult to impossible to secure home loans in areas deemed "third" or "fourth" grade. 
+This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify investment risk. These grades effectively outlined the racial contours of the city and systematially embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed low ("third" or "fourth") grade. 
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">       
 
