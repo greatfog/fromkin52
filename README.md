@@ -24,6 +24,8 @@ Links [March on Milwaukee](https://uwm.edu/marchonmilwaukee/).
 ## Racially restrictive real estate covenants
 
 Property deeds and real estate covenants govern restrictions on the use of property. During the early to mid-twentieth century, these documents were often used to prevent people who were not white from buying property in certain areas.[^1]
+
+The covenant pictured here is from the Lloyd Barbee Papers in the UWM Archives. This covenant, dated June 1940, restricts occupancy to white people, but makes an exception for "domestic servants domiciled with an owner or tenant." Such a clause not only restricts ownership, but assigns an "acceptable" role for non-whites who enter the neighborhood. 
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/1499/manifest.json">
 
