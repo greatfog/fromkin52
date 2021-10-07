@@ -12,12 +12,11 @@
 <param ve-entity eid="Q6662268"> <!-- Lloyd Barbee -->
 <param ve-entity eid="Q7918759"> <!-- Vel Phillips -->
 <param ve-entity eid="Q1453838"> <!-- redlining -->
-<param ve-entity eid="Q37836"> <!-- Milwaukee -->
+<param ve-entity eid="Q186356"> <!-- New Deal -->
 
 # Mapping Race and Resistance: The 52nd Annual Morris Fromkin Memorial Lecture
 
 This year's Morris Fromkin Memorial Lecture focuses on the racial geography of Milwaukee - and the role of racial housing covenants have played in defining ongoing racial boundaries in our city. But it is also a story of resistance. According to speakers Anne Bonds and Derek Handley, "Our focus on efforts to challenge covenants explores the lived experiences of covenants and ways in which Black organizations and residents of Milwaukee County envisioned and articulated their claims for racial and spatial justice." 
-Links [March on Milwaukee](https://uwm.edu/marchonmilwaukee/).
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/1499/manifest.json">
 
@@ -46,3 +45,4 @@ Map plotting black residential segregation according to data from the 2000 Unite
 # References
 
 [^1]: [What are Coventants? University of Minnesota: Mapping Prejudice](https://mappingprejudice.umn.edu/what-are-covenants/)
+Links [March on Milwaukee](https://uwm.edu/marchonmilwaukee/)
