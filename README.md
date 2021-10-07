@@ -23,15 +23,16 @@ Links [March on Milwaukee](https://uwm.edu/marchonmilwaukee/).
 
 ## Redlining
 
-This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify risk investment. These grades effectively outlined the racial contours of the city and systematially embedded economic disadvantages by making it difficult to impossible to secure home loans in areas deemed "third" or "fourth" grade. [^1]
-<param ve-map center="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json" zoom="11" prefer-geojson 
+This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify risk investment. These grades effectively outlined the racial contours of the city and systematially embedded economic disadvantages by making it difficult to impossible to secure home loans in areas deemed "third" or "fourth" grade. 
+<param ve-image 
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">
        
 
-## Racial covenants
+## Racially restrictive real estate covenants
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Property deeds and real estate covenants govern restrictions on the use of property. During the early to mid-twentieth century, these documents were often used to prevent people who were not white from buying property in certain areas.[^1]
+<param ve-image 
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/1499/manifest.json">
 
 ## Multiple viewers
 
@@ -43,4 +44,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [What are Coventants? University of Minnesota: Mapping Prejudice](https://mappingprejudice.umn.edu/what-are-covenants/)
