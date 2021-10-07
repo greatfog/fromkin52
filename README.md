@@ -34,13 +34,11 @@ Property deeds and real estate covenants govern restrictions on the use of prope
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/1499/manifest.json">
 
-## Multiple viewers
+## Black residential segregration - 2000 census
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+Map plotting black residential segregation according to data from the 2000 United States census.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/4/4a/2000census-_Black_Residential_Segregation.JPG">
 
 # References
 
