@@ -45,4 +45,5 @@ Map plotting black residential segregation according to data from the 2000 Unite
 # References
 
 [^1]: [What are Coventants? University of Minnesota: Mapping Prejudice](https://mappingprejudice.umn.edu/what-are-covenants/)
+
 Links [March on Milwaukee](https://uwm.edu/marchonmilwaukee/)
