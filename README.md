@@ -17,7 +17,7 @@
 ## Video
 
 You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is a TED-Ed video called "The first and last king of Haiti," by Marlene Daut, created in 2019.
-<param ve-video id="[q7lfSjjMNU8](https://mediaspace.wisconsin.edu/media/WTMJ_reports_SR482_cs/1_3euc8iny)" title="WTMJ_reports_SR482_cs">
+<param ve-video id="https://mediaspace.wisconsin.edu/media/WTMJ_reports_SR482_cs/1_3euc8iny" title="WTMJ_reports_SR482_cs">
 
 
 # Mapping Race and Resistance: The 52nd Annual Morris Fromkin Memorial Lecture
