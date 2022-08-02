@@ -14,6 +14,12 @@
 <param ve-entity eid="Q1453838"> <!-- redlining -->
 <param ve-entity eid="Q186356"> <!-- New Deal -->
 
+## Video
+
+You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is a TED-Ed video called "The first and last king of Haiti," by Marlene Daut, created in 2019.
+<param ve-video id="q7lfSjjMNU8" title="The first and last king of Haiti">
+
+
 # Mapping Race and Resistance: The 52nd Annual Morris Fromkin Memorial Lecture
 
 This year's Morris Fromkin Memorial Lecture focuses on the racial geography of Milwaukee - and the role of racial housing covenants have played in defining ongoing racial boundaries in our city. But it is also a story of resistance. According to speakers Anne Bonds and Derek Handley, "Our focus on efforts to challenge covenants explores the lived experiences of covenants and ways in which Black organizations and residents of Milwaukee County envisioned and articulated their claims for racial and spatial justice." 
