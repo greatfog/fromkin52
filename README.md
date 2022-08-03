@@ -21,7 +21,7 @@ You can also include Youtube videos by using the param ve-video code and the you
 
 # IIIF compound object test
 <param ve-image 
-       manifest="https://collections.lib.uwm.edu/digital/iiif/kal/1211/full/pct:50/0/default.jpg"> 
+      url="https://collections.lib.uwm.edu/digital/iiif/kal/1211/full/pct:50/0/default.jpg"> 
 
 # Mapping Race and Resistance: The 52nd Annual Morris Fromkin Memorial Lecture
 
