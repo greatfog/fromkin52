@@ -23,7 +23,7 @@ You can also include Kaltura Mediaspace videos by using the param ve-iframe code
 
 This year's Morris Fromkin Memorial Lecture focuses on the racial geography of Milwaukee - and the role of racial housing covenants have played in defining ongoing racial boundaries in our city. But it is also a story of resistance. According to speakers Anne Bonds and Derek Handley, "Our focus on efforts to challenge covenants explores the lived experiences of covenants and ways in which Black organizations and residents of Milwaukee County envisioned and articulated their claims for racial and spatial justice." 
 <param ve-image 
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/kal/1212/manifest.json">
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/kal/1227/manifest.json">
 
 ## Racially restrictive real estate covenants
 
