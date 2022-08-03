@@ -31,7 +31,7 @@ url: The URL to the image file. This is not required or used if a manifest optio
 manifest: The URL to an existing IIIF presentation manifest for the image, if one exists.
 
 <param ve-image 
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/kal/1227/manifest.json" seq="10" layers="true">
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/kal/1227/manifest.json" seq="2" layers="true">
 
 ## Racially restrictive real estate covenants
 
