@@ -23,7 +23,7 @@ You can also include Kaltura Mediaspace videos by using the param ve-iframe code
 
 Property deeds and real estate covenants govern restrictions on the use of property. During the early to mid-twentieth century, these documents were often used to prevent people who were not white from buying property in certain areas.[^1]
 <param ve-image 
-       manifest="https://liblamp.uwm.edu/IIIF/manifest/manifest1499.json">
+       url="https://collections.lib.uwm.edu/digital/iiif/kal/1211/full/pct:50/0/default.jpg">
 
 ## Mapping Race and Resistance: The 52nd Annual Morris Fromkin Memorial Lecture
 
