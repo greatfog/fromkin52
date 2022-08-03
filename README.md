@@ -19,9 +19,8 @@
 You can also include Kaltura Mediaspace videos by using the param ve-iframe code and the embeding code from Kaltura. This is a WTMJ reports video from our WTMJ channel.
 <param ve-iframe id="kaltura mediaspace" src="https://cdnapisec.kaltura.com/p/2370711/sp/237071100/embedIframeJs/uiconf_id/42909941/partner_id/2370711?iframeembed=true&playerId=kaltura_player&entry_id=1_3euc8iny&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_cambmsxn" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="WTMJ_reports_SR482_cs">    
 
-## add an image using ve-image url="" 
-
-Property deeds and real estate covenants govern restrictions on the use of property. During the early to mid-twentieth century, these documents were often used to prevent people who were not white from buying property in certain areas.[^1]
+## add an image using ve-image url=
+url: The URL to the image file. This is not required or used if a manifest option is provided. When using a IIIF image separate from a manifest, /info.json must be appended to the image URL. When using an image URL the highest quality version of the image should be used when multiple versions are available, such as when using a Wikimedia Commons image.
 <param ve-image 
        url="https://collections.lib.uwm.edu/digital/iiif/kal/1211/full/pct:50/0/default.jpg">
 
