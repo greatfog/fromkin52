@@ -43,6 +43,15 @@ Others are selectable using icons displayed in the top right margin of the parag
        url="https://collections.lib.uwm.edu/digital/iiif/kal/1211/full/pct:50/0/default.jpg">
 <param ve-map center="Q36600" zoom="11">
 
+## compare 
+compare images
+<param ve-image
+       title="Image comparison of the canopy of a dragon tree (_Dracaena draco_) with a classical Greek depiction of the dragon Ladon."
+       url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json"
+       curtain="true"
+       fit="contain"
+       ref="1" >
+
 ## Racially restrictive real estate covenants
 
 Property deeds and real estate covenants govern restrictions on the use of property. During the early to mid-twentieth century, these documents were often used to prevent people who were not white from buying property in certain areas.[^1]
