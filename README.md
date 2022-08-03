@@ -43,14 +43,9 @@ Others are selectable using icons displayed in the top right margin of the parag
        url="https://collections.lib.uwm.edu/digital/iiif/kal/1211/full/pct:50/0/default.jpg">
 <param ve-map center="Q36600" zoom="11">
 
-## compare 
-compare images
-<param ve-image
-       title="Image comparison of the canopy of a dragon tree (_Dracaena draco_) with a classical Greek depiction of the dragon Ladon."
-       url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json"
-       curtain="true"
-       fit="contain"
-       ref="1" >
+## more image related functions 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea <span data-click-image-zoomto="3607,4314,4238,4061">commodo consequat</span>. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia <span data-mouseover-image-zoomto="6914,6799,1472,2820">deserunt mollit</span> anim id est laborum.
+<param ve-image fit="cover" manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 ## Racially restrictive real estate covenants
 
